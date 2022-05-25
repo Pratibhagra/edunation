@@ -1,0 +1,27 @@
+
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    letter-spacing: -0.015em;
+    text-align: left;
+    color: black;
+}
+
+#teammember1  {
+  
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: 210px;
+    border-radius: 100%;
+	overflow: hidden;
+    
+
+}
+
+#teammember1 img:hover{
+    transform:scale(1.1);
+   
+}
+
